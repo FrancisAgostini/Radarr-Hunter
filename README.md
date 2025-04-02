@@ -36,9 +36,9 @@ This script continually searches your Radarr library for missing movies and movi
 * [Unraid Intel ARC Deployment](https://github.com/plexguide/Unraid_Intel-ARC_Deployment) - Convert videos to AV1 Format (I've saved 325TB encoding to AV1)
 * Visit [PlexGuide](https://plexguide.com) for more great scripts
 
-## Donations - Funds Goto My Daughter's College Fund 
+## PayPal Donations – Building My Daughter’s Future
 
-My daughter is 12 years old and she loves to sing, dance, loves STEM, and is an A-B Honorale Student. Any donations for this project will go to my Daughter's College Fund. Thank you!
+My 12-year-old daughter loves singing, dancing, and exploring STEM. She’s an A-B honor roll student with big dreams for the future. Any donation you make will go directly toward her college fund, helping her turn those dreams into reality. Thank you for your support!
 
 [![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=58AYJ68VVMGSC)
 
